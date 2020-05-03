@@ -1,0 +1,9 @@
+D:\PDW\ChatBot\chat_Client\chat_Client\bin\Debug\chat_Client.exe.config
+D:\PDW\ChatBot\chat_Client\chat_Client\bin\Debug\chat_Client.exe
+D:\PDW\ChatBot\chat_Client\chat_Client\bin\Debug\chat_Client.pdb
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.csprojAssemblyReference.cache
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.Properties.Resources.resources
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.csproj.GenerateResource.cache
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.exe
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.pdb
+D:\PDW\ChatBot\chat_Client\chat_Client\obj\Debug\chat_Client.Client.resources
